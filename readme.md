@@ -20,6 +20,6 @@ cd ./shell-script-scanning-ips
 3- Como executar
 
 ```sh
-$ chmod 777./gt_ips.sh # permissão
-$ ./gt_ips.sh # execução
+$ chmod 777./gt_ips.sh # permissão total
+$ ./gt_ips.sh 192.168.1 # execução exemplo
 ```
